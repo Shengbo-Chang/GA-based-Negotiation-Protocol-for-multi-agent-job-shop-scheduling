@@ -1,0 +1,2 @@
+# GA_based_Negotiation_Mechanism
+GA_based_Negotiation_Mechanism for job shop scheduling
